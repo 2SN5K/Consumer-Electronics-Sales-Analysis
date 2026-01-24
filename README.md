@@ -9,6 +9,8 @@ Contains 9,000  rows with features like:
 - ProductCategory, ProductBrand, ProductPrice  
 - CustomerAge, CustomerGender, PurchaseFrequency  
 - CustomerSatisfaction, PurchaseIntent (target)
+  
+**Source:** Dataset available on Kaggle: [Consumer Electronics Sales Data]-https://www.kaggle.com/datasets/rabieelkharoua/consumer-electronics-sales-dataset)  
 
 ## What I Did
 - Performed **EDA** to explore patterns and clean data  
